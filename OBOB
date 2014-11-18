@@ -1,0 +1,38 @@
+= ..hheellpp
+
+(from gem thor-0.19.1)
+=== IImmpplleemmeennttaattiioonn  ffrroomm  TThhoorr
+------------------------------------------------------------------------------
+  help(shell, subcommand = false)
+
+------------------------------------------------------------------------------
+
+Prints help information for this class.
+
+==== PPaarraammeetteerrss
+shell<Thor::Shell>
+
+
+(from gem thor-0.19.1)
+=== IImmpplleemmeennttaattiioonn  ffrroomm  TThhoorr
+------------------------------------------------------------------------------
+  help(command = nil, subcommand = false)
+
+------------------------------------------------------------------------------
+
+
+(from gem thor-0.19.1)
+=== IImmpplleemmeennttaattiioonn  ffrroomm  GGrroouupp
+------------------------------------------------------------------------------
+  help(shell)
+
+------------------------------------------------------------------------------
+
+Prints help information.
+
+==== OOppttiioonnss
+short:
+  When true, shows only usage.
+
+
+
